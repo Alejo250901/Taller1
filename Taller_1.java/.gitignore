@@ -1,0 +1,25 @@
+# Compiled Java files
+*.class
+
+# Build output
+bin/
+out/
+target/
+build/
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Java tooling and temporary files
+hs_err_pid*
+replay_pid*
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
