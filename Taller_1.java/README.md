@@ -1,5 +1,7 @@
 ## Getting Started
 
+Integrantes: Sara Ximena Amortegui Acosta y Diego Alejandro Sánchez Baquero
+
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 ## Folder Structure
